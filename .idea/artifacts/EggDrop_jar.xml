@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EggDrop:jar">
+    <output-path>$USER_HOME$/Desktop/spigotTestServer/plugins</output-path>
+    <root id="archive" name="EggDrop.jar">
+      <element id="module-output" name="SpigotPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/spigot-api-1.14.4-R0.1-20191210.224154-92.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EggDrop:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5897a2a0-4cae-4c06-8e9b-e95c419a3b46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a81RWKBKk3WVvusZir1FHD7Q82" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DarkHalls" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1640625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brendan\IdeaProjects\SpigotPlugin\src" />
+      <recent name="C:\Users\Brendan\IdeaProjects\SpigotPlugin\src\me\rhapso\plugintemplate" />
+      <recent name="C:\Users\Brendan\IdeaProjects\SpigotPlugin\out\artifacts\SpigotPlugin_jar" />
+      <recent name="C:\Users\Brendan\IdeaProjects\SpigotPlugin" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5897a2a0-4cae-4c06-8e9b-e95c419a3b46" name="Default Changelist" comment="" />
+      <created>1586102399114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586102399114</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="764" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1586110792125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="764" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586110792125" />
+    <state x="690" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1586103650494">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586103650494" />
+    <state x="790" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586107359564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="790" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586107359564" />
+    <state x="689" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586116421992">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="271" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586116421992" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1586704172024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586704172024" />
+    <state x="661" y="145" key="SettingsEditor" timestamp="1586627395759">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="145" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586627395759" />
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586703878922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586703878922" />
+    <state x="342" y="144" key="new project wizard" timestamp="1586107878043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="144" key="new project wizard/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586107878043" />
+    <state x="702" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1586205081738">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586205081738" />
+    <state x="828" y="420" key="save.project.as.template.dialog" timestamp="1586107893313">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="420" key="save.project.as.template.dialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1586107893313" />
+  </component>
+</project>

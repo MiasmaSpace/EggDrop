@@ -1,0 +1,5 @@
+name: EggDrop
+version: 0.1
+author: rhapso
+main: me.rhapso.eggdrop.pluginMain
+api-version: 1.15
